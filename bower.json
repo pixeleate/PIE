@@ -1,9 +1,9 @@
 {
   "name": "css3pie",
   "version": "0.0.0",
-  "homepage": "https://github.com/PepijnSenders/css3pie",
+  "homepage": "https://github.com/pixeleate/PIE",
   "authors": [
-    "Pepijn Senders <pepijn@bekokstooft.nl>"
+    "Ulises Garcia <me@ulisesgarcia.com>"
   ],
   "description": "Bower package for css3pie http://css3pie.com/",
   "keywords": [
