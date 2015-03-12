@@ -15,6 +15,7 @@
     "browserify"
   ],
   "license": "MIT",
+  "main": ["./browserify-css3pie.js"],
   "ignore": [
     "**/.*",
     "node_modules",
