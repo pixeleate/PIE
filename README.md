@@ -1,4 +1,4 @@
-css3pie
+css3pie to be used with browserify
 =======
 
 Bower package for css3pie http://css3pie.com/
