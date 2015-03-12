@@ -2,7 +2,8 @@ css3pie
 =======
 
 Bower package for css3pie http://css3pie.com/
+to be used with browserify
 
 ```
-bower install css3pie
+bower install browserify-css3pie
 ```
